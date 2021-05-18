@@ -378,8 +378,8 @@ def task2():
 
 ## Приклади роботи програми
 
-![lab](1.png)
+![lab](1.jpg)
 
-![lab](2.png)
+![lab](2.jpg)
 
-![lab](3.png)
+![lab](3.jpg)
