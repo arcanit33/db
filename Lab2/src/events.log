@@ -1,0 +1,174 @@
+INFO:root:2021-05-18 15:20:00.564324: Registration: Registration successful. "arcanit33" registered
+
+INFO:root:2021-05-18 15:20:07.038737: Log in: Log in successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 15:23:11.669501: Log out: Log out successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 15:23:33.194646: Registration: Registration successful. "Sasha" registered
+
+INFO:root:2021-05-18 15:23:43.300732: Log in: Log in successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 15:24:07.433652: Log out: Log out successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 15:24:12.848655: Log in: Log in successful. "Sasha" logged in
+
+INFO:root:2021-05-18 15:24:41.007234: Log out: Log out successful. "Sasha" logged in
+
+INFO:root:2021-05-18 15:24:45.810690: Log in: Log in successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 15:25:20.242946: Log out: Log out successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 15:27:30.246765: Log in: Log in successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 15:29:30.418871: Log in: Log in successful. "Sasha" logged in
+
+INFO:root:2021-05-18 15:29:30.418871: Log in: Log in successful. "Sasha" logged in
+
+INFO:root:2021-05-18 15:30:12.277434: Log in: Log in successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 15:30:12.277434: Log in: Log in successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 15:36:14.904780: Spam check: user "Sasha" sent spam message: "HI arcanit33"
+
+INFO:root:2021-05-18 15:36:15.559538: Spam check: user "Sasha" sent spam message: "HI arcanit33"
+
+INFO:root:2021-05-18 15:36:15.559538: Spam check: user "Sasha" sent spam message: "HI arcanit33"
+
+INFO:root:2021-05-18 15:36:17.090714: Spam check: user "Sasha" sent spam message: "test"
+
+INFO:root:2021-05-18 15:36:17.090714: Spam check: user "Sasha" sent spam message: "test"
+
+INFO:root:2021-05-18 15:36:17.090714: Spam check: user "Sasha" sent spam message: "test"
+
+INFO:root:2021-05-18 16:01:53.112512: Log out: Log out successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 16:01:53.112512: Log out: Log out successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 16:35:29.384865: Registration: Registration failure. Username "arcanit33" already exists
+
+INFO:root:2021-05-18 16:35:48.772337: Log in: Log in failure. "asdsacx" does not exist
+
+INFO:root:2021-05-18 16:36:09.010539: Registration: Registration successful. "Xasturr" registered
+
+INFO:root:2021-05-18 16:36:20.812168: Log in: Log in successful. "Xasturr" logged in
+
+INFO:root:2021-05-18 16:38:38.410826: Log out: Log out successful. "Xasturr" logged in
+
+INFO:root:2021-05-18 16:39:44.249873: Log in: Log in successful. "Sasha" logged in
+
+INFO:root:2021-05-18 16:44:08.250391: Spam check: user "Sasha" sent spam message: "TEST 1"
+
+INFO:root:2021-05-18 16:45:08.042657: Log in: Log in successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 16:45:08.042657: Log in: Log in successful. "arcanit33" logged in
+
+INFO:root:2021-05-18 16:46:29.669836: Log out: Log out successful. "Sasha" logged in
+
+INFO:root:2021-05-18 16:46:29.669836: Log out: Log out successful. "Sasha" logged in
+
+INFO:root:2021-05-18 16:46:39.577174: Log in: Log in successful. "Xasturr" logged in
+
+INFO:root:2021-05-18 16:46:39.577174: Log in: Log in successful. "Xasturr" logged in
+
+INFO:root:2021-05-18 16:46:57.765808: Spam check: user "Xasturr" sent spam message: "test"
+
+INFO:root:2021-05-18 16:48:41.875108: Registration: Registration successful. "alexanderwilson" registered
+
+INFO:root:2021-05-18 16:48:41.875108: Registration: Registration successful. "alexanderwilson" registered
+
+INFO:root:2021-05-18 16:48:41.876109: Log in: Log in successful. "alexanderwilson" logged in
+
+INFO:root:2021-05-18 16:48:41.876109: Log in: Log in successful. "alexanderwilson" logged in
+
+INFO:root:2021-05-18 16:48:41.877106: Registration: Registration successful. "christywilliams" registered
+
+INFO:root:2021-05-18 16:48:41.877106: Registration: Registration successful. "christywilliams" registered
+
+INFO:root:2021-05-18 16:48:41.877106: Log in: Log in successful. "christywilliams" logged in
+
+INFO:root:2021-05-18 16:48:41.877106: Log in: Log in successful. "christywilliams" logged in
+
+INFO:root:2021-05-18 16:48:41.878104: Registration: Registration successful. "christopher86" registered
+
+INFO:root:2021-05-18 16:48:41.878104: Registration: Registration successful. "christopher86" registered
+
+INFO:root:2021-05-18 16:48:41.879102: Log in: Log in successful. "christopher86" logged in
+
+INFO:root:2021-05-18 16:48:41.879102: Log in: Log in successful. "christopher86" logged in
+
+INFO:root:2021-05-18 16:48:41.880098: Registration: Registration successful. "hawkinsmichele" registered
+
+INFO:root:2021-05-18 16:48:41.880098: Registration: Registration successful. "hawkinsmichele" registered
+
+INFO:root:2021-05-18 16:48:41.881095: Log in: Log in successful. "hawkinsmichele" logged in
+
+INFO:root:2021-05-18 16:48:41.881095: Log in: Log in successful. "hawkinsmichele" logged in
+
+INFO:root:2021-05-18 16:48:41.882094: Registration: Registration successful. "ljones" registered
+
+INFO:root:2021-05-18 16:48:41.882094: Registration: Registration successful. "ljones" registered
+
+INFO:root:2021-05-18 16:48:41.883091: Log in: Log in successful. "ljones" logged in
+
+INFO:root:2021-05-18 16:48:41.883091: Log in: Log in successful. "ljones" logged in
+
+INFO:root:2021-05-18 17:12:05.470807: Registration: Registration successful. "knightpatricia" registered
+
+INFO:root:2021-05-18 17:12:05.470807: Registration: Registration successful. "knightpatricia" registered
+
+INFO:root:2021-05-18 17:12:05.471806: Log in: Log in successful. "knightpatricia" logged in
+
+INFO:root:2021-05-18 17:12:05.471806: Log in: Log in successful. "knightpatricia" logged in
+
+INFO:root:2021-05-18 17:12:05.472802: Registration: Registration successful. "mark12" registered
+
+INFO:root:2021-05-18 17:12:05.473801: Log in: Log in successful. "mark12" logged in
+
+INFO:root:2021-05-18 17:12:05.474797: Registration: Registration successful. "qadams" registered
+
+INFO:root:2021-05-18 17:12:05.474797: Registration: Registration successful. "qadams" registered
+
+INFO:root:2021-05-18 17:12:05.475795: Log in: Log in successful. "qadams" logged in
+
+INFO:root:2021-05-18 17:12:05.475795: Log in: Log in successful. "qadams" logged in
+
+INFO:root:2021-05-18 17:12:05.477789: Registration: Registration successful. "stephanie80" registered
+
+INFO:root:2021-05-18 17:12:05.478786: Log in: Log in successful. "stephanie80" logged in
+
+INFO:root:2021-05-18 17:12:05.478786: Log in: Log in successful. "stephanie80" logged in
+
+INFO:root:2021-05-18 17:12:05.479784: Registration: Registration successful. "michaelgarcia" registered
+
+INFO:root:2021-05-18 17:12:05.479784: Registration: Registration successful. "michaelgarcia" registered
+
+INFO:root:2021-05-18 17:12:05.480780: Log in: Log in successful. "michaelgarcia" logged in
+
+INFO:root:2021-05-18 17:12:05.480780: Log in: Log in successful. "michaelgarcia" logged in
+
+INFO:root:2021-05-18 17:13:01.580685: Registration: Registration successful. "blacktommy" registered
+
+INFO:root:2021-05-18 17:13:01.581682: Log in: Log in successful. "blacktommy" logged in
+
+INFO:root:2021-05-18 17:13:01.581682: Log in: Log in successful. "blacktommy" logged in
+
+INFO:root:2021-05-18 17:13:01.582679: Registration: Registration successful. "beckcarly" registered
+
+INFO:root:2021-05-18 17:13:01.583677: Log in: Log in successful. "beckcarly" logged in
+
+INFO:root:2021-05-18 17:13:01.583677: Log in: Log in successful. "beckcarly" logged in
+
+INFO:root:2021-05-18 17:13:01.584674: Registration: Registration successful. "elizabeth75" registered
+
+INFO:root:2021-05-18 17:13:01.585671: Log in: Log in successful. "elizabeth75" logged in
+
+INFO:root:2021-05-18 17:13:01.585671: Log in: Log in successful. "elizabeth75" logged in
+
+INFO:root:2021-05-18 17:13:01.586669: Registration: Registration successful. "zoe07" registered
+
+INFO:root:2021-05-18 17:13:01.587667: Log in: Log in successful. "zoe07" logged in
+
+INFO:root:2021-05-18 17:13:01.588664: Registration: Registration successful. "kimberly41" registered
+
+INFO:root:2021-05-18 17:13:01.589661: Log in: Log in successful. "kimberly41" logged in
+
